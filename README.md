@@ -1,6 +1,6 @@
-# **TempoSum: Evaluating the Temporal Generalization of Abstractive Summarization**
+# **Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization**
 
-This repository contains data for the paper [TempoSum: Evaluating the Temporal Generalization of Abstractive Summarization](https://arxiv.org/abs/2305.01951)
+This repository contains data for the paper [Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization](https://arxiv.org/abs/2305.01951)
 
 ```
 @article{cheang2023temposum,
