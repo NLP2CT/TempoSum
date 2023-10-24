@@ -3,12 +3,21 @@
 This repository contains data for the paper [Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization](https://arxiv.org/abs/2305.01951)
 
 ```
-@article{cheang2023temposum,
-  title={TempoSum: Evaluating the Temporal Generalization of Abstractive Summarization},
-  author={Cheang, Chi Seng and Chan, Hou Pong and Wong, Derek F and Liu, Xuebo and Li, Zhaocong and Sun, Yanming and Liu, Shudong and Chao, Lidia S},
-  journal={arXiv preprint arXiv:2305.01951},
-  year={2023}
-}
+@inproceedings{temposum23,
+    title="{Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization}",
+    author = {Chi Seng Cheang and
+                  Hou Pong Chan and
+                  Derek F. Wong and
+                  Xuebo Liu and
+                  Zhaocong Li and
+                  Yanming Sun and
+                  Shudong Liu and
+                  Lidia S. Chao},
+    booktitle = "Proceedings of the Conference on Empirical Methods in Natural Language Processing ({EMNLP})",
+    month = {December},
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+    }
 ```
 
 
